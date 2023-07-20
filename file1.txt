@@ -1,0 +1,2 @@
+Checking on how to clone the project from repo to local.
+good luck
